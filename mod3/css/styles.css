@@ -1,0 +1,18 @@
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+div {
+	display: block;
+}
+
+.card-text {
+	margin-bottom: 10px;
+	padding: 5px 20px;
+	background-color: gray;
+}
+
+#main-content {
+	width: 92%;
+}
+
